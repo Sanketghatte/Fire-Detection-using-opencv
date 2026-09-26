@@ -1,1 +1,1 @@
-﻿# Fire-Detection-using-opencv-python
+﻿# Fire-Detection-using-opencv
